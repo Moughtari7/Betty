@@ -4,7 +4,7 @@
 # Originally by Tim Britton (@wintermanc3r), multiargument added by
 # Larry Madeo (@hillmonkey)
 
-BIN_PATH="/usr/root/bin"
+BIN_PATH="/usr/local/bin"
 BETTY_STYLE="betty-style"
 BETTY_DOC="betty-doc"
 
